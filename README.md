@@ -1,2 +1,2 @@
 # automationPython
-Finance
+Finance yahoo
